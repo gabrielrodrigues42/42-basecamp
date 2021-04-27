@@ -21,7 +21,7 @@ This repository contains coding developed at [42 São Paulo's](https://www.42sp.
     Shell:          
     
                 The first two lists are about Shell, going through simple to more complex commands 
-                in command line, to make you feel more comfortable to use the terminal.
+                in command line, to make you feel more comfortable using the terminal.
 
     Git:
     
@@ -65,11 +65,11 @@ This repository contains coding developed at [42 São Paulo's](https://www.42sp.
 | C 04       | C     | 70%  ✔️ |
 | C 05       | C     | 60%  ✔️ |
 | C 06       | C     | 70%  ✔️ |
-| Rush 00    | C     | 0%   ❌ |
-| Rush 01    | C     | 0%   ❌ |
+| Rush 00    | C     | 0%   ❌|
+| Rush 01    | C     | 0%   ❌|
 | Exam 00    | C     | 48%  ✔️ |
-| Exam 01    | C     | 24%  ❌ |
-| Final Exam | C     | 18%  ❌ |
+| Exam 01    | C     | 24%  ❌|
+| Final Exam | C     | 18%  ❌|
 
 ## Achievements
 
