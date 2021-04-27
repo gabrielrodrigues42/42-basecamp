@@ -21,7 +21,7 @@ This repository contains coding developed at [42 São Paulo's](https://www.42sp.
     Shell:          
     
                 The first two lists are about Shell, going through simple to more complex commands 
-                in command line, to make you feel more comfortable using the terminal.
+                in command line, making you feel more comfortable using the terminal.
 
     Git:
     
